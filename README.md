@@ -23,11 +23,11 @@ Review
 OrderDetails
 Payment
 
-2. mysql Creating Schema
+2. Creating Schema
 
 The generated data was used to populate the designed MySQL database. SQL scripts were created to build the database schema and insert the data.
 
-3. Power-BI Dashboard (Power BI)
+3. Power-BI Dashboard
 Created an interactive dashboard is in Power BI to visualize key business metrics. The dashboard connects to the MySQL database and displays:
 
 Sales Trends: Visualizations showing sales over time.
