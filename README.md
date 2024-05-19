@@ -1,4 +1,4 @@
-Introduction
+# Introduction
   This project involves building a data management and visualization system for Raksha Pipes. The system includes generating realistic data, designing a MySQL database, and creating an interactive dashboard using Power BI. The aim is to provide valuable insights to help Raksha Pipes make informed business decisions. 
 
 1. Generate Data and Design Database
